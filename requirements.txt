@@ -3,7 +3,7 @@ djangorestframework==3.9
 django-cors-headers==3.2
 markdown==2.3.1
 django-filter==2.2
-pygments==2.3.1
+pygments==2.7.4
 qrcode==6.1
 requests==2.22
 djangorestframework_simplejwt
