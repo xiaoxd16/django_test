@@ -11,7 +11,7 @@ djangorestframework-xml==1.4
 Djangorestframework-yaml==1.0
 drf_yasg==1.17
 aliyun-python-sdk-core==2.13
-urllib3==1.24
+urllib3==1.26.5
 mongoengine==0.18
 mysqlclient==1.4
 django-redis==4.10
