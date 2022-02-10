@@ -1,4 +1,4 @@
-django==2.2
+django==2.2.27
 djangorestframework==3.9
 django-cors-headers==3.2
 markdown==2.3.1
